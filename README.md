@@ -2,7 +2,7 @@
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
-## Background
+## Background for Homework
 
 Welcome to the newsroom! You've just accepted a data visualization position for a major metro paper. You're tasked with analyzing the current trends shaping people's lives, as well as creating charts, graphs, and interactive elements to help readers understand your findings.
 
@@ -78,7 +78,7 @@ Your final product will be assessed on the following metrics:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-**Good luck!**
+**Good luck!!**
 
 ### Copyright
 
